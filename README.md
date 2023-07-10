@@ -36,6 +36,10 @@ HomeScreen | GameScreen | Challenges... | Statistics.....|
 | :---: | :---: | :---: | :---: |
 | <img src="./assets/screenshots/win.png" width=300/> | <img src="./assets/screenshots/pause.png" width=300/> | <img src="./assets/screenshots/settings.png" width=300/> | <img src="./assets/screenshots/difficulties.png" width=300/> |
 
+## Preview
+
+https://github.com/recepsenoglu/flutter_sudoku/assets/83721234/dc5b8536-a0c2-4a05-8dce-9c6a3386b99d
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
